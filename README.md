@@ -11,11 +11,6 @@
 ### 📊 My Contribution Grass
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sophie-24&theme=monokai)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-24&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sophie-24&show_icons=true&theme=agent&count_private=true&hide_border=true" />
-</p>
-
 
 - 🔭 I’m currently working on: Transitioning from a functional developer to a structural designer through the SOPT development club.
 
