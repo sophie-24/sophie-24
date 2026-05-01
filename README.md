@@ -17,15 +17,18 @@
 </p>
 
 
-### Infos
+### My Github Stats
 <p align="left">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophie-24&layout=compact&theme=radical&show_icons=true" alt="Top Langs" />
+  <!-- GitHub Stats 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sophie-24&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" height="150" />
+  
+  <!-- 사용 언어 통계 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-24&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
+<!-- 기여도 그래프 -->
 <p align="left">
-  <!-- GitHub Stats-->
-  <img src="https://github-readme-stats.vercel.app/api?username=sophie-24&show_icons=true&theme=agent&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sophie-24&theme=monokai" alt="Summary Card" width="400" />
 </p>
 
 - 🔭 I’m currently working on: Transitioning from a functional developer to a structural designer through the SOPT development club.
