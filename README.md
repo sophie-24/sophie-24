@@ -13,8 +13,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 ### 📊 My Contribution Grass
-![GitHub Grass](https://gh-grass.vercel.app/get?github=sophie-24&theme=dark)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sophie-24&theme=monokai)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-24&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sophie-24&show_icons=true&theme=agent&count_private=true&hide_border=true" />
+</p>
 ### Infos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-24&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
