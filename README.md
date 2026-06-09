@@ -2,7 +2,6 @@
 
 * 🎓 **Dongguk University**에서 컴퓨터공학을 전공하고 있습니다.
 * 🚀 **Data Engineer** 및 **Backend Engineer**를 꿈꾸며 데이터를 설계하고 분석하는 것에 몰입하고 있습니다.
-* 🤝 팀의 온도를 높이고 동료들을 빛나게 돕는 **퍼실리테이터** 역할을 지향합니다.
 
 
 ### 🛠 Tech Stack
