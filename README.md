@@ -1,89 +1,105 @@
-## 👋 Welcome to Kyuri's GitHub!
-궁금하면 망설이지 않고 일단 해보고, 도전하는 것을 좋아합니다.
-여러 팀 프로젝트와 해커톤에서 개발리드와 팀 방향을 설정하는 역할을 맡아온 **소통에 진심인** 백엔드 개발자입니다.
+
+/
 
 
-### 📋 About Me
-* 🎓 **Computer Engineering** at Dongguk University
-* 💡 **Backend Developer** who prioritizes **"evidence-based development"** and collaborative growth.
-* 🚀 Active member & Developer at **SOPT 38th** & **AWS Student Builder Group at DGU 1th**
-* 🤿 Passionate **Scuba Diver** and global traveler
 
----
 
-### 📊 My Contribution Grass
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sophie-24&theme=monokai)
 
----
 
-### 📫 Contact & Links
-* 💼 **Portfolio:** [Kyuri Kim's Portfolio](https://www.notion.so/2a030ae59565800cb1d4c630ec5d3b10)
-* ✉️ **Email:** sophia.gyuri@gmail.com
-* ✍️ Blog: velog.io/@gyuri0504
 
----
 
-### 🛠 Tech Stack
 
-#### **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+
+
+
+Readme 초안 · MD
+<h1 align="center">👋 Hi, I'm Kyuri!</h1>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub-sophie--24-lightgrey?style=for-the-badge" />
 </p>
-
-#### **Databases & Data Engineering**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F27?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/열정-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/협업-4A90D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/소통-F5A623?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/배움-7ED321?style=for-the-badge" />
 </p>
-
-#### **Tools & Architecture**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<p align="center">궁금하면 일단 해보고, 만든 건 꼭 팀과 나눕니다.<br/>여러 팀 프로젝트와 해커톤에서 개발리드 & 커뮤니케이션 허브를 맡아온 백엔드 개발자입니다.</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sophie-24/sophie-24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sophie-24/sophie-24/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sophie-24/sophie-24/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
 ---
-### 🚀 Featured Projects
-
-#### 🌍 [RePlanet | 탄소절감 서비스 웹](https://github.com/sophie-24/seoul-25-ht-RePlanet) – 서울 AI 해커톤
-> RAG 기반 AI 챗봇 + 자동 데이터 수집 + 게이미피케이션을 결합한 탄소절감 서비스
-> An eco-friendly gamification platform utilizing GPS data to encourage and track carbon reduction behaviors.
-
-* **Role:** **팀장 & 풀스택**으로 DB 설계부터 프론트엔드, 챗봇 연동까지 데이터 파이프라인 전 과정 주도.
-* **Tech Stack:** FastAPI, MySQL, Python, TypeScript, RAG
-
-#### 📈 [GemPT | 교차검증 AI](https://github.com/2025-X-Thon-Team2/2025-X-Thon-Team2_kongjjagkongjjagdugeundugeun) – 동국대학교 해커톤 X-Thon
-> "하나의 AI는 믿을 수 없다"는 문제의식에서 출발한, GPT와 Gemini가 최대 5라운드까지 토론하며 서로를 검증하는 듀얼 AI 시스템.
-
-* **Role:** **팀장 & 백엔드 엔지니어**으로서 가중 이동평균 기반 신뢰도 점수 수식과 토론 루프 알고리즘을 직접 설계
-* **Tech Stack:** FastAPI, Python, React
-
-#### 🔊 [층간소음 객관화 시스템 | oneM2M 기반 IoT] (https://github.com/sophie-24/Coss_IOT_2026) — 제1회 사물인터넷 플랫폼 활용 개발자 챌린지 참여.
-> 주관적인 층간소음 분쟁을 법적 기준(Leq_1min, Lmax)에 맞춘 객관적 데이터로 전환하는 IoT 시스템
-
-* **Role:** AI 모델 개발 리드로서 YAMNet 전이학습 + LSTM 시계열 분석 + 물리 센서 융합으로 판별 정확도를 30% → 75% 까지 개선
-* **Tech Stack:** Arduino Sensors, oneM2M Platform, LSTM Model, Vue, TensorFlow, PyTorch, oneM2M
-
-#### 🔊 [Tubify | 개인화 영상 큐레이션] (https://github.com/sophie-24/SWproject-Team2-m) — 공개 SW 프로젝트
-> 멀티에이전트 파이프라인으로 만든 AI 기반 유튜브 맞춤 뉴스레터
-
-* **Role:** 개발리드로서 DB 설계와 백엔드를 주도했고, 단순 요약이 아니라 "AI가 판단을 이어가는" 에이전트 구조를 설계
-* **Tech Stack:** FastAPI, Multi-Agent, Orchestrator
-
-#### 🔊 [에너지 취약지수(EVI) 대시보드] (https://github.com/sophie-24/2025data_EVI) — 데이터안심구역 활용 공동 경진대회 / 우수상
-> "누가 전기를 쓰지 못하는가"에 데이터로 답하는 에너지 복지 최적화 모델
-
-* **Role:** 한국전력공사·통계청 등 이종 공공 데이터를 융합해 1인 개발로 전처리~분석~시각화까지 전 과정 진행.
-* **Tech Stack:** Tableau, Python, Jupyter
-
-#### 🔊 [Blur | 정서적 고립감 해소 플랫폼] (https://github.com/SOPT-all/38-SOPKATHON-SERVER-ANDROID3) — SOPT 솝커톤 · SOPKATHON 대상
-> 익명으로 고민을 나누고 타인의 공감으로 감정을 흐리게 만들어 소각하는 플랫폼
-
-* **About:** FastAPI 중심이었던 이력에서 처음으로 Spring Boot 실전 서버 개발을 경험한 프로젝트. & 기획/디자인/안드로이드 파트와 협업
-* **Role:** 서버 (백엔드) 파트
-* **Tech Stack:** Spring Boot
-
+ 
+## 📋 About Me
+ 
+- 🎓 동국대학교 컴퓨터공학 전공 재학 중
+- 💡 FastAPI로 대부분의 프로젝트를 만들어왔고, 최근 SOPT에서 Spring Boot로 서버 개발을 확장하는 중
+- 🎯 지금 향하고 있는 목표: **데이터 엔지니어** — API를 붙여 빠르게 띄우는 것을 넘어, 데이터가 생성·저장·가공되어 가치로 이어지는 흐름 자체를 설계하고 싶습니다
+- 🤝 거의 모든 프로젝트에서 팀장 / 개발리드 / 커뮤니케이션 허브를 맡으며 협업과 소통을 우선순위에 둡니다
+- 📚 새로운 프레임워크·도메인을 두려워하지 않고 직접 부딪혀 배우는 걸 즐깁니다
+---
+ 
+## 🛠 Tech Stack
+ 
+**Backend**
+ 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+**Data & DB**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+**AI/ML**
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+ 
+**Frontend**
+ 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ 
+**Tools**
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+---
+ 
+## 💼 Experience
+ 
+- **SOPT** | 38기 Server 파트 | 2026.03 ~ Present
+- **AWS Student Builder Group at DGU** | 1기 | 2026 ~ Present
+- **동국대학교 108 리더스** | 20기 | 2026
+- **컴퓨터AI학부 학생회 [기획국]** | 수습국원 | 2025
+- **BDA 부트캠프** | 수료 및 프로젝트 진행 | 2025.07 ~ 2025.08
+- **서울 AI메이커 자치단** | 2기 | 2025
+---
+ 
+## 🚀 Projects
+ 
+| Project | Description | Link |
+|---|---|---|
+| **RePlanet** | RAG 챗봇 + 자동 데이터 수집 + 게이미피케이션 결합 탄소절감 플랫폼 · 서울AI해커톤 이사장상 | [🔗](https://github.com/sophie-24/seoul-25-ht-RePlanet) |
+| **GemPT** | GPT·Gemini가 최대 5라운드까지 토론하며 서로 검증하는 듀얼 AI 교차검증 시스템 | [🔗](https://github.com/2025-X-Thon-Team2/2025-X-Thon-Team2_kongjjagkongjjagdugeundugeun) |
+| **층간소음 객관화 시스템** | oneM2M 기반 IoT, YAMNet+LSTM으로 판별 정확도 30%→75% 개선 | [🔗](https://github.com/sophie-24/Coss_IOT_2026) |
+| **Tubify** | 멀티에이전트 파이프라인 기반 개인화 유튜브 큐레이션 뉴스레터 | [🔗](https://github.com/sophie-24/SWproject-Team2-m) |
+| **EVI 대시보드** | 한전·통계청 데이터 융합 에너지 취약지수 대시보드 · 우수상 | [🔗](https://github.com/sophie-24/2025data_EVI) |
+| **Blur** | 익명 고민 공유·소각 플랫폼 · SOPKATHON 대상, 첫 Spring Boot 실전 프로젝트 | [🔗](https://github.com/38-lets-sopt-server/gyuri.kim) |
+ 
+### 🔬 Currently In Progress
+ 
+| Project | Description |
+|---|---|
+| 상담 음성데이터 AI 기술 검증 (POC) | 한국사회보장정보원 산학협력, Whisper STT 파인튜닝 및 성능 검증 |
+| DebtRadar | PR 리뷰 댓글 속 기술 부채 신호 수집·분류·추적 개인 사이드 프로젝트 |
+| CoELA 기반 다중 로봇 협력 시스템 | 동국
