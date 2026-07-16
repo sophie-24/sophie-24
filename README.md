@@ -1,18 +1,4 @@
 
-/
-
-
-
-
-
-
-
-
-
-
-
-
-Readme 초안 · MD
 <h1 align="center">👋 Hi, I'm Kyuri!</h1>
  
 <p align="center">
