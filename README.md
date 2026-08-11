@@ -134,7 +134,7 @@
 ## 📫 Contact
 
 - 📮 **Email** — sophia.gyuri@gmail.com
-- 📓 **Portfolio** — [웹 포트폴리오](https://buly.kr/450JRWW), [노션 포트폴리오](https://buly.kr/1RGkF2T)
+- 📓 **Portfolio** — [웹 포트폴리오](https://gyuri-cloud.vercel.app/), [노션 포트폴리오](https://buly.kr/1RGkF2T)
 - ✏️ **Blog** — [velog.io/@gyuri0504](https://velog.io/@gyuri0504/posts)
 
 <br/>
