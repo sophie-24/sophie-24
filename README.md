@@ -1,8 +1,8 @@
 <h1 align="center">Kyuri Kim</h1>
 
 <p align="center">
-  <b>Spring Boot와 FastAPI로 설계하고, 배포와 운영까지 책임지는 백엔드 엔지니어</b><br/>
-  <sub>"왜 이 데이터가 이렇게 흐르는가", "어디에서 시스템이 느려지는가"를 근거로 확인하며 개발합니다.</sub>
+  <b>Spring Boot와 FastAPI로 설계하고, 소통과 협업에 자신있는 따뜻한 개발자</b><br/>
+  <sub>아키텍처와 코드의 근거를 짚어가며 근거 있는 코드를 작성하는 개발자입니다.</sub>
 </p>
 
 <p align="center">
