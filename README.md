@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/gyuri_portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /></a>
+  <a href="https://app.notion.com/p/36630ae5956580949121f2c54050a522"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /></a>
   <a href="https://velog.io/@gyuri0504/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
   <a href="mailto:sophia.gyuri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -42,19 +42,18 @@
 | **[HAPHAP](https://github.com/team-haphap/haphap-server)** <br/><sub>SOPT APPJAM · 2주 합숙</sub> | 채용 공고 전형 일정을 캘린더로 관리하는 모바일 서비스 백엔드 | **Blue/Green 무중단 배포 + 관측성 구축**<br/>명세·문서·코드 **3-way 검증으로 17개 API** 스키마 보강<br/>Redis `ZINCRBY` 원자 연산으로 락 없는 조회수 집계 | `Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Docker` `Nginx` `Prometheus` `Grafana` |
 | **[Tubify](https://github.com/sophie-24/SWproject-Team2-m)** <br/><sub>개발리드 · Chrome Web Store 출시</sub> | 유튜브 영상을 교차 분석해 광고성 콘텐츠를 걸러내고 개인화 뉴스레터를 발송하는 멀티에이전트 서비스 | **분석 응답 6초 → 2초 (66%↓)**<br/>프롬프트 토큰 **40% 절감**<br/>Shared Cache로 LLM 호출 **토픽당 7회 → 1회**<br/>외부 API 차단 시 대기 **25초 → 1.5초** | `FastAPI` `PostgreSQL` `Redis` `asyncpg` `Gemini` `Chrome Extension` |
 | **[청심환](https://github.com/dong-k-k/server)** <br/><sub>KB 국민은행 AI Challenge</sub> | 수출입 중소기업의 환노출 위험을 진단하고 헤지 전략·금융상품을 추천하는 서비스 | **AI 실패 시 ECOS 실데이터 통계 폴백**으로 무중단 진단<br/>추천 근거를 LLM이 아닌 **검증된 구조화 데이터**에서만 생성<br/>3레포 API 계약 분리로 **2주 내 병렬 개발·배포 완료** | `FastAPI` `PostgreSQL` `pgvector` `SQLAlchemy(async)` `Docker` `Playwright` |
-| **[EVI 대시보드](https://github.com/sophie-24/2025data_EVI)** <br/><sub>1인 개발 · 우수상</sub> | 전력·금융·인구·기후 데이터를 결합해 행정동별 에너지 빈곤 위험을 지수화한 복지 의사결정 시스템 | **정책 시뮬레이션 10초 → 0.2초**<br/>KEPCO API 캐시 히트 **2초 → 0.05초**<br/>PCA 다중공선성 보정 + 도메인 가중치로 **Z3 0점 산출 문제 해결** | `FastAPI` `MySQL` `Redis` `scikit-learn` `PCA` `Isolation Forest` `React` `D3.js` |
+| **[CallWrap](https://github.com/CallWrap)** <br/><sub>개발리드 · 한국사회보장정보원 산학협력 POC</sub> | 상담 후처리 자동화 서비스의 Spring Boot 오케스트레이션 서버 | RabbitMQ 비동기 파이프라인 · JSON Schema 계약 검증·실패 격리 · 실음성 200건 처리, 실패 0건 · 처리 시간 2분 → 53.7초 · 장려상 | `Java 21` `Spring Boot` `FastAPI` `PostgreSQL` `RabbitMQ` `Docker` `Prometheus` `Grafana` |
+| **[VULNERGY (EVI 대시보드)](https://github.com/sophie-24/2025data_EVI)** <br/><sub>1인 개발 · 우수상</sub> | 전력·금융·인구·기후 데이터를 결합해 행정동별 에너지 빈곤 위험을 지수화한 복지 의사결정 시스템 | **정책 시뮬레이션 10초 → 0.2초**<br/>KEPCO API 캐시 히트 **2초 → 0.05초**<br/>PCA 다중공선성 보정 + 도메인 가중치로 **Z3 0점 산출 문제 해결** | `FastAPI` `MySQL` `Redis` `scikit-learn` `PCA` `Isolation Forest` `React` `D3.js` |
 | **[RePlanet](https://github.com/sophie-24/seoul-25-ht-RePlanet)** <br/><sub>팀장 · 이사장상</sub> | GPS·공공데이터로 친환경 이동을 자동 인식하고 AI 코칭으로 탄소 절감을 유도하는 플랫폼 | **교통수단 분류 정확도 60% → 87%**<br/>RAG 기반 정책 Q&A **정확도 85%**<br/>원본/정제 분리 ETL로 데이터 추적성 확보 | `FastAPI` `MySQL` `Redis` `AWS Bedrock` `Claude 3.5` `RandomForest` |
 | **[D-Log](https://github.com/sophie-24/Coss_IOT_2026)** <br/><sub>IoT-COSS 개발자 챌린지</sub> | IoT 센서와 AI 소음 분류로 층간소음을 객관화하고 법적 기준 증거 리포트를 생성하는 시스템 | **소음 분류 확신도 30% → 75%**<br/>외부 소음 필터링 **80% 이상**<br/>oneM2M ACP로 세대 간 원본 데이터 접근 제한 | `FastAPI` `YAMNet` `LSTM` `TensorFlow` `PyTorch` `oneM2M/Mobius` |
 | **[GemPT](https://github.com/2025-X-Thon-Team2/2025-X-Thon-Team2_kongjjagkongjjagdugeundugeun)** <br/><sub>개발리드 · X-Thon</sub> | GPT를 해결자, Gemini를 검증자로 분리해 최대 5라운드 교차검증하는 학습 답안 검증 서비스 | **신뢰도 알고리즘 정확도 66% → 89%** (Pytest)<br/>EMA 기반 종료 조건으로 **무한 토론 차단**<br/>미합의 상태와 판단 근거를 사용자에게 투명 공개 | `FastAPI` `GPT-4o` `Gemini` `Pillow` `Pytest` |
 | **[Blur](https://github.com/SOPT-all/38-SOPKATHON-SERVER-ANDROID3)** <br/><sub>SOPKATHON 대상 · 1박 2일</sub> | 익명 고민 카드가 공감을 받으면 자동 소각되는 감정 해소 플랫폼 | **1박 2일 MVP에도 Blue/Green 배포 적용**<br/>자동 소각 UX 엣지 케이스를 서버 관점에서 발견해 **기획 정책 수정 주도** | `Java` `Spring Boot` `JPA` `MySQL` `EC2` `Nginx` `GitHub Actions` |
 
-### 🔬 Currently In Progress
+### 🔬 Research & Side Projects
 
 | 프로젝트 | 내용 |
 |---|---|
-| **상담 음성데이터 AI 기술 검증 (POC)** <sub>한국사회보장정보원 산학협력</sub> | '25년 상담데이터 34만 건(1,121GB) 중 10만 건 학습 / 10만 건 검증 · Whisper STT 파인튜닝 · **CER 기준 정확도 95% 목표** · 가명처리 선행 |
 | **CoELA 기반 다중 로봇 협력 시스템** <sub>동국대 개별연구</sub> | GPT-4/VirtualHome 의존 구조를 AI2-THOR + 소형 오픈모델로 이식 · 상태 필터링과 결정론적 완료 가드로 **20스텝 미검증 종료 → 6스텝 검증 종료** |
-| **ReviewTrace** <sub>개인 사이드 프로젝트</sub> | PR 리뷰 댓글에서 기술 부채 신호를 수집·분류·추적 |
 
 <br/>
 
@@ -134,7 +133,7 @@
 ## 📫 Contact
 
 - 📮 **Email** — sophia.gyuri@gmail.com
-- 📓 **Portfolio** — [웹 포트폴리오](https://gyuri-cloud.vercel.app/), [노션 포트폴리오](https://buly.kr/1RGkF2T)
+- 📓 **Portfolio** — [웹 포트폴리오](https://gyuri-cloud.vercel.app/), [노션 포트폴리오](https://app.notion.com/p/36630ae5956580949121f2c54050a522)
 - ✏️ **Blog** — [velog.io/@gyuri0504](https://velog.io/@gyuri0504/posts)
 
 <br/>
@@ -148,3 +147,4 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/sophie-24/sophie-24/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
