@@ -133,8 +133,6 @@
 ## 📫 Contact
 
 - 📮 **Email** — sophia.gyuri@gmail.com
-- 📓 **Portfolio** — [웹 포트폴리오](https://gyuri-cloud.vercel.app/), [노션 포트폴리오](https://app.notion.com/p/36630ae5956580949121f2c54050a522)
-- ✏️ **Blog** — [velog.io/@gyuri0504](https://velog.io/@gyuri0504/posts)
 
 <br/>
 
